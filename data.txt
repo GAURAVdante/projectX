@@ -1,0 +1,4 @@
+IP       :     MODEL                              : ARCH :              OPERATING SYSTEM                     : HDD  :RAM :VIRT: CPU op-mode(s)
+
+192.168.10.243:Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz:x86_64:Red Hat Enterprise Linux Server release 7.2 (Maipo):232.9G:7711:VT-x:32-bit, 64-bit
+
